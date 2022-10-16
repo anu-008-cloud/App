@@ -1,0 +1,18 @@
+import { Component, OnInit } from '@angular/core';
+
+@Component({
+  selector: 'app-innovative',
+  templateUrl: './innovative.component.html',
+  styleUrls: ['./innovative.component.css']
+})
+export class InnovativeComponent implements OnInit {
+
+  constructor() { }
+
+  ngOnInit(): void {
+  } 
+  hello(){
+    alert("hello from innovative "+this.title);
+  } title="Gadgeon";
+
+}

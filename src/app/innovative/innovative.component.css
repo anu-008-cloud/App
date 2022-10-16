@@ -1,0 +1,12 @@
+img {
+    border-radius: 50%;
+  }
+.first{
+    width: 100%;
+}
+.simage{
+  float: right;
+}
+.stext{
+  margin-top: 35%;
+}

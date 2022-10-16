@@ -1,0 +1,13 @@
+
+img {
+    border-radius: 50%;
+  }
+.fimage{
+  float: right;
+}
+.fpre{
+  float: left;
+}
+.ftext{
+  margin-top: 35%;
+}
